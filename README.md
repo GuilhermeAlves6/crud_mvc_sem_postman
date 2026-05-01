@@ -67,28 +67,6 @@ SET TERM ; ^
 3. Inicie o Apache no painel do XAMPP.
 4. Acesse no navegador: [http://localhost/Mvc/public/user](http://localhost/Mvc/public/user)
 
-## 📡 Endpoints da API (Postman)
-
-Você pode testar a API enviando requisições JSON para os seguintes endereços:
-
-| Método | Endpoint | Descrição |
-| :--- | :--- | :--- |
-| **GET** | `/user` | Lista todos os usuários |
-| **POST** | `/user/store` | Cria um novo usuário |
-| **GET** | `/user/show/{id}` | Exibe detalhes de um usuário |
-| **POST** | `/user/update/{id}` | Atualiza um usuário |
-| **GET** | `/user/delete/{id}` | Remove um usuário |
-
-```json
-// Exemplo de Body para POST/UPDATE
-{
-    "NOME": "João Silva",
-    "EMAIL": "joao@email.com"
-}
-```
-
-```
-
 ---
 
 ### Como atualizar no GitHub agora:
