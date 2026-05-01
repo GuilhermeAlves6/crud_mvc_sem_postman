@@ -101,6 +101,4 @@ Como você já fez o primeiro commit, agora basta enviar a correção:
    git commit -m "docs: corrigindo formatação do readme"
    git push origin main
    ```
-
-**Dica do Gemini:** O segredo são os "crases" ( \` \` \` ). Eles indicam ao GitHub onde começa e termina um bloco de código, mantendo o desenho da pasta `Mvc/` e o SQL organizados!
 ```
