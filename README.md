@@ -101,4 +101,3 @@ Como você já fez o primeiro commit, agora basta enviar a correção:
    git commit -m "docs: corrigindo formatação do readme"
    git push origin main
    ```
-```
