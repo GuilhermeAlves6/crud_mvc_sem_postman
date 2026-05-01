@@ -1,0 +1,13 @@
+{
+    "name": "guilherme/mvc-firebird",
+    "description": "Projeto MVC Villares com Firebird",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Core\\": "core/"
+        }
+    },
+    "require": {
+        "php": ">=8.0"
+    }
+}
